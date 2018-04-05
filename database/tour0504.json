@@ -1,0 +1,23 @@
+{
+"rutas" : [
+{"id" : "1", "titulo" : "Camiseta", "marca" : "Levis", "descripcion" : "Camiseta Levis, disponible en talla L, XL en colores rojo y blanco", "precio" : "59.99", "foto" : "/assets/imagenes/levis.jpg", "categoria" : "Ropa"},
+{"id" : "2", "titulo" : "Camiseta", "marca" : "H&M", "descripcion" : "Camiseta H&M, disponible en talla L, XL en colores rojo y blanco y gris", "precio" : "29.99", "foto" : "/assets/imagenes/hm.jpg", "categoria" : "Ropa"},
+{"id" : "3", "titulo" : "Camiseta", "marca" : "Zara", "descripcion" : "Camiseta zara, disponible en talla L, XL en colores rojo y blanco y gris", "precio" : "39.99", "foto" : "/assets/imagenes/zara.jpg", "categoria" : "Ropa"},
+{"id" : "4", "titulo" : "Camiseta", "marca" : "Nike", "descripcion" : "Camiseta nike, disponible en talla L, XL en colores rojo y blanco y gris", "precio" : "49.99", "foto" : "/assets/imagenes/nike.jpg", "categoria" : "Ropa"},
+{"id" : "5", "titulo" : "Camiseta", "marca" : "Adidas", "descripcion" : "Camiseta nike, disponible en talla L, XL en colores rojo y blanco y gris", "precio" : "49.99", "foto" : "/assets/imagenes/adidas.jpg", "categoria" : "Ropa"},
+{"id" : "6", "titulo" : "Camiseta", "marca" : "Puma", "descripcion" : "Camiseta nike, disponible en talla L, XL en colores rojo y blanco y gris", "precio" : "49.99", "foto" : "/assets/imagenes/puma.jpg", "categoria" : "Ropa"},
+{"id" : "7", "titulo" : "Zapatos", "marca" : "Nike", "descripcion" : "Zapatos marca Nike, disponible en talla 38-41", "precio" : "49.99", "foto" : "/assets/imagenes/nikezap.jpg", "categoria" : "zapatos"},
+{"id" : "8", "titulo" : "Zapatos", "marca" : "Eltraidor", "descripcion" : "Zapatos marca NISU", "precio" : "9.99", "foto" : "/assets/imagenes/nisu.jpg", "categoria" : "zapatos"},
+{"id" : "9", "titulo" : "Zapatos", "marca" : "Adidas", "descripcion" : "Zapatos marca Adidas", "precio" : "28.99", "foto" : "/assets/imagenes/adidaszap.jpg", "categoria" : "zapatos"},
+{"id" : "10", "titulo" : "Zapatos", "marca" : "Puma", "descripcion" : "Zapatos marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/pumazap.jpg", "categoria" : "zapatos"},
+{"id" : "11", "titulo" : "Zapatos", "marca" : "Rebook", "descripcion" : "Zapatos marca Rebook", "precio" : "21.99", "foto" : "/assets/imagenes/rebook.jpg", "categoria" : "zapatos"},
+{"id" : "12", "titulo" : "Bolso", "marca" : "Puma", "descripcion" : "Bolso marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/1.jpg", "categoria" : "bolsos"},
+{"id" : "13", "titulo" : "Bolso", "marca" : "blanca", "descripcion" : "Bolso marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/2.jpg", "categoria" : "bolsos"},
+{"id" : "14", "titulo" : "Bolso", "marca" : "nike", "descripcion" : "Bolso marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/3.jpg", "categoria" : "bolsos"},
+{"id" : "15", "titulo" : "Bolso", "marca" : "adidas", "descripcion" : "Bolso marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/4.jpg", "categoria" : "bolsos"},
+{"id" : "16", "titulo" : "Bolso", "marca" : "rebook", "descripcion" : "Bolso marca Puma", "precio" : "24.99", "foto" : "/assets/imagenes/5.jpg", "categoria" : "bolsos"}
+],
+"contactos" : [
+{"_id" : "1", "mail" : "adrian@gmail.com", "fecha" : "02/01/2018", "comentario" : "Hola tio me llamo ralph"}
+]
+}
